@@ -1,0 +1,1 @@
+A entrada de dados é feita através do modo console, assim como a saída.
